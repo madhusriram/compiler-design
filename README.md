@@ -8,5 +8,6 @@ pieces of what it takes to write a compiler.
 
 - Flex(Lex) information:
 	- [University of Tenessee](http://web.eecs.utk.edu/~bvz/cs461/) *Compiler Design*
+	- [Sourceforge](http://flex.sourceforge.net/manual/) *Flex Specification*
 
 - Bison(Yacc) information:
