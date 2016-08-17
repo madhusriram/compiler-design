@@ -16,5 +16,6 @@ Example:
 --------
 As an example, consider this possible BNF for a U.S. postal address:
 
-> \<postal-address\> ::= \<name-part\> \<street-address\> \<zip-part\>
-> \<name-part\> 	 ::= \<personal-part\> \<last-name\> \<opt-suffix-part\> \<EOL\> | \<personal-part\> \<name-part\>
+
+\<postal-address\> ::= \<name-part\> \<street-address\> \<zip-part\><br>
+\<name-part\> 	   ::= \<personal-part\> \<last-name\> \<opt-suffix-part\> \<EOL\> | \<personal-part\> \<name-part\>
